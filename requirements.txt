@@ -1,0 +1,17 @@
+langchain-core
+langgraph>0.2.27
+langchain
+streamlit
+langchain-google
+langchain-google-genai
+langserve
+fastapi
+uvicorn
+sse_starlette
+langchain-community
+bs4
+pypdf
+chromadb
+sentence-transformers
+langchain-huggingface
+faiss-cpu
